@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+data/artemis/raw/
+data/artemis/frames/
+
+output/
